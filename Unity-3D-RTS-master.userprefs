@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseManger.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Interactive.cs" Line="6" Column="9" />
+      <File FileName="Assets\Scripts\Interaction\Highlight.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\MouseManger.cs" Line="4" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="22" column="1" />
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="21" column="7" />
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="20" column="1" />
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="13" column="1" />
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="15" column="1" />
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="16" column="1" />
+      <Breakpoint file="F:\Users\Ben\Desktop\Unity-3D-RTS-master\Unity-3D-RTS-master\Assets\Scripts\Interaction\Highlight.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
